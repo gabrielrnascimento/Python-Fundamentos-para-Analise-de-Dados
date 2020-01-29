@@ -16,4 +16,4 @@ class Pessoa():
     
 pessoa1 = Pessoa('Gabriel', 'Rio de Janeiro', 21924589674, 'gabrielnascimento@hotmail.com')
 
-print(str(pessoa1))
+str(pessoa1)
